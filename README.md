@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, SQL Server, MySQL, MsSQL, NoSQL, Object Oriented Principles, Aspect Oriented Principles**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mertarslna?tab=repositories](https://github.com/mertarslna?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/mertarslna](https://github.com/mertarslna?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
