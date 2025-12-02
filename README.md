@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertarslna" alt="mertarslna" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, Python, C, Embedded Programming, SQL Server, MySQL, MsSQL, NoSQL, Object Oriented Principles, Aspect Oriented Principles, Design Patterns**
+- 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, Python, C, C++, Embedded Programming(STM32, RTOS, IoT), SQL Server, MySQL, MsSQL, NoSQL, Git, Docker, RESTful APIs, Object Oriented Principles, Aspect Oriented Principles, Design Patterns & Clean Code Principles**
 
 - 👨‍💻 All of my projects are available at [github.com/mertarslna](https://github.com/mertarslna?tab=repositories)
   
@@ -41,10 +41,19 @@
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a>
+    <a href="https://www.cplusplus.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/> 
     </a>
     <a href="https://www.mysql.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+    </a>
+    <a href="https://ubuntu.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> 
     </a>
 </p>
