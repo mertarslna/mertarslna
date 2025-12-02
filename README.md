@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertarslna" alt="mertarslna" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, SQL Server, MySQL, MsSQL, NoSQL, Object Oriented Principles, Aspect Oriented Principles**
+- 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, Python, C, Embedded Programming, SQL Server, MySQL, MsSQL, NoSQL, Object Oriented Principles, Aspect Oriented Principles, Design Patterns**
 
 - 👨‍💻 All of my projects are available at [github.com/mertarslna](https://github.com/mertarslna?tab=repositories)
   
