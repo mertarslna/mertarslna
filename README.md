@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, Python, C, C++, Embedded Programming(STM32, RTOS, IoT), SQL Server, MySQL, MsSQL, NoSQL, Git, Docker, RESTful APIs, Object Oriented Principles, Aspect Oriented Principles, Design Patterns & Clean Code Principles**
 
-- 👨‍💻 All of my projects are available at [github.com/mertarslna](https://github.com/mertarslna?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/mertarslna?tab=repositories)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
