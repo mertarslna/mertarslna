@@ -48,6 +48,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:mertarslan260@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="">https://www.instagram.com/mertarslna<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
+  <a href="https://www.instagram.com/mertarslna"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
   <a href="https://www.linkedin.com/in/mertarslna/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a>
 </p>
