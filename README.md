@@ -15,12 +15,21 @@
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,c,cpp,mysql,git,ubuntu" />
 </p>
 
-<h3 align="left">Achievements & Stats:</h3>
+<h3 align="left">Stats & Activity:</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertarslna&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mertarslna&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertarslna&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertarslna&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertarslna&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mertarslna&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertarslna&theme=radical" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
