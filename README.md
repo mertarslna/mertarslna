@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Mert Arslan</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
