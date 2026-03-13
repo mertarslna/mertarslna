@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mert Arslan</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertarslna&label=Profile%20views&color=0e75b6&style=flat" alt="mertarslna" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mertarslna&label=Profile%20views&color=0e75b6&style=flat" alt="mertarslna" /> 
+</p>
 
 - 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, Python, C, C++, Embedded Programming(STM32, RTOS, IoT), SQL Server, MySQL, MsSQL, NoSQL, Git, Docker, RESTful APIs, Object Oriented Principles, Aspect Oriented Principles, Design Patterns & Clean Code Principles**
 
@@ -11,6 +13,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,c,cpp,mysql,git,ubuntu" />
+</p>
+
+<h3 align="left">Achievements & Stats:</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertarslna&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mertarslna&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
