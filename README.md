@@ -4,22 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertarslna&label=Profile%20views&color=0e75b6&style=flat" alt="mertarslna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertarslna" alt="mertarslna" /></a> </p>
-
 - 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, Python, C, C++, Embedded Programming(STM32, RTOS, IoT), SQL Server, MySQL, MsSQL, NoSQL, Git, Docker, RESTful APIs, Object Oriented Principles, Aspect Oriented Principles, Design Patterns & Clean Code Principles**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/mertarslna?tab=repositories)
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mertarslna/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/mertarslna" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -56,4 +43,11 @@
     <a href="https://ubuntu.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> 
     </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:mertarslan260@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="">https://www.instagram.com/mertarslna<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
+  <a href="https://www.linkedin.com/in/mertarslna/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a>
 </p>
