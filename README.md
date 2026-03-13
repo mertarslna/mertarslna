@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,c,cpp,sql,mysql,git,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,c,cpp,mssql,mysql,git,ubuntu" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
