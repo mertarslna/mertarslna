@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mertarslna&label=Profile%20views&color=0e75b6&style=flat" alt="mertarslna" /> 
 </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, Python, C, C++, Embedded Programming(STM32, RTOS, IoT), SQL Server, MySQL, MsSQL, NoSQL, Git, Docker, RESTful APIs, Object Oriented Principles, Aspect Oriented Principles, Design Patterns & Clean Code Principles**
+- 🌱 I’m currently learning **Java, Spring Boot, C#, ASP.NET Core, Python, C, C++, Embedded Programming (STM32, RTOS, IoT), SQL Server, MySQL, MsSQL, NoSQL, Git, Docker, RESTful APIs, Object Oriented Principles, Aspect Oriented Principles, Design Patterns & Clean Code Principles**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/mertarslna?tab=repositories)
 
