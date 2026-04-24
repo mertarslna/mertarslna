@@ -3,7 +3,7 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mertarslna/mertarslna/output/github-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/mertarslna/mertarslna/output/github-snake.svg" alt="snake" />
 </p>
 
 <p align="left"> 
