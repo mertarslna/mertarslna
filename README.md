@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mert Arslan</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mertarslna/mertarslna/output/github-snake-dark.svg" alt="snake" />
+</p>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mertarslna&label=Profile%20views&color=0e75b6&style=flat" alt="mertarslna" /> 
 </p>
